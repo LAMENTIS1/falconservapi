@@ -22,7 +22,8 @@ def transcribe_audio():
                 audio_data = audio_file.read()
 
                 # Load the model for transcription
-                model_folder_path = "faster-whisper-tiny"
+                model_folder_path = "https://github.com/LAMENTIS1/falconservapi/tree/main/faster-whisper-tiny"
+"
                 model = WhisperModel(model_folder_path, device="cpu", compute_type="int8")
 
                 # Transcribe audio
