@@ -75,4 +75,5 @@ if __name__ == '__main__':
     #print("GVP Bot: Hello! How can I assist you today?")
 
     # Start Flask app
-    app.run()  # Bind to all interfaces for cloud deployment
+    app.run(debug=True)
+ # Bind to all interfaces for cloud deployment
