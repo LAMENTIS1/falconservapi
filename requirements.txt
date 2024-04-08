@@ -1,5 +1,5 @@
+faster-whisper
 
-faster-whisper            1.0.1
 
 Flask                     2.3.2
 Flask-SocketIO            5.3.6
