@@ -17,7 +17,8 @@ ipykernel
 ipython                   
 itsdangerous              
 jedi                      
-                 
+portaudio 
+pyaudio
 jsonpatch                 
 jsonpointer               
 jsonschema                
