@@ -17,7 +17,7 @@ ipykernel
 ipython                   
 itsdangerous              
 jedi                      
-PyAudio
+
 jsonpatch                 
 jsonpointer               
 jsonschema                
@@ -59,21 +59,14 @@ psutil
 pure-eval                 
 pvporcupine               
 pyarrow                   
-PyAudio                   
+                 
 pycparser                 
 pydantic                  
 pydantic_core             
-pydeck                    
-pydub                     
-pygame                    
-Pygments                  
+                
 pyparsing                 
                 
-                    
-pyreadline               
-python-dateutil           
-python-engineio           
-python-slugify            
+
 python-socketio           
               
               
