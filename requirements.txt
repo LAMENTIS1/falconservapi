@@ -6,7 +6,7 @@ flatbuffers
                 
 huggingface-hub           
 jsonify                   
-gunicorn
+
 jsonpatch                 
 jsonpointer               
 jsonschema                
