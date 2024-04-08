@@ -76,12 +76,7 @@ python-engineio
 python-slugify            
 python-socketio           
 pyttsx                   
-pytz                      
-pywin                   
-PyYAML                    
-pyzmq                     
-qrcode                    
-referencing               
+              
 regex                     
 repath                    
 requests                  
