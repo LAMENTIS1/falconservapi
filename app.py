@@ -2,7 +2,9 @@ from flask import Flask, request, jsonify
 from faster_whisper import WhisperModel
 import io
 import os
-from langchain import HuggingFaceHub, PromptTemplate, LLMChain
+#from langchain import HuggingFaceHub, PromptTemplate, LLMChain
+from langchain_community.llms import HuggingFaceHub ,PromptTemplate, LLMChain
+
 
 app = Flask(__name__)
 
