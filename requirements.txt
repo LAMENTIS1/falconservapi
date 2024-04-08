@@ -17,7 +17,7 @@ ipykernel
 ipython                   
 itsdangerous              
 jedi                      
-
+gunicorn
 jsonpatch                 
 jsonpointer               
 jsonschema                
