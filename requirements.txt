@@ -75,7 +75,7 @@ python-dateutil
 python-engineio           
 python-slugify            
 python-socketio           
-pyttsx                   
+              
               
 regex                     
 repath                    
