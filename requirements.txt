@@ -68,8 +68,8 @@ pydub
 pygame                    
 Pygments                  
 pyparsing                 
-pypiwin                 
-pypng                     
+                
+                    
 pyreadline               
 python-dateutil           
 python-engineio           
