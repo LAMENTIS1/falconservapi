@@ -3,7 +3,8 @@ from faster_whisper import WhisperModel
 import io
 import os
 #from langchain import HuggingFaceHub, PromptTemplate, LLMChain
-from langchain_community.llms import HuggingFaceHub ,PromptTemplate, LLMChain
+from langchain_community import HuggingFaceHub ,PromptTemplate, LLMChain
+from langchain.prompts import PromptTemplate
 
 
 app = Flask(__name__)
