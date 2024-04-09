@@ -3,3 +3,5 @@ huggingface
 langchain 
 flask
 gunicorn
+streamlit
+
