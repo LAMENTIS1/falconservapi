@@ -79,4 +79,4 @@ if not hasattr(st, 'already_started_server'):
     prompt = PromptTemplate(template=template, input_variables=['question'])
     falcon_chain = LLMChain(llm=falcon_llm, prompt=prompt, verbose=True)
 
-    app.run(port=8888)
+    app.run(host='0.0.0.0' , port=12345)
